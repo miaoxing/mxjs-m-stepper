@@ -1,10 +1,10 @@
 .mx-stepper {
   display: flex;
-  height: 1.75rem;
+  height: var(--mx-space-7);
 
   &-input {
-    width: 1.75rem;
-    font-size: .875rem;
+    width: var(--mx-space-7);
+    font-size: var(--mx-fontSizes-sm);
     height: 100%;
     margin: 0 2PX;
     text-align: center;
@@ -17,7 +17,7 @@
   &-minus {
     position: relative;
     margin: 0;
-    width: 1.75rem;
+    width: var(--mx-space-7);
     background-color: var(--mx-colors-gray-100);
     height: 100%;
 
@@ -44,11 +44,11 @@
   }
 
   &-minus {
-    border-radius: .25rem 0 0 .25rem;
+    border-radius: var(--mx-space-1) 0 0 var(--mx-space-1);
   }
 
   &-plus {
-    border-radius: 0 .25rem .25rem 0;
+    border-radius: 0 var(--mx-space-1) var(--mx-space-1) 0;
 
     &::after {
       width: 1PX;
