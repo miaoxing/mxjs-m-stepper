@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Stepper basic 1`] = `
+<div>
+  <taro-view-core
+    class="mx-stepper"
+  >
+    <taro-button-core
+      class="mx-stepper-minus"
+    />
+    <taro-input-core
+      class="mx-stepper-input"
+    />
+    <taro-button-core
+      class="mx-stepper-plus"
+    />
+  </taro-view-core>
+</div>
+`;
