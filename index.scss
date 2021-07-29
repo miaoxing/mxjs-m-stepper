@@ -11,6 +11,12 @@
     appearance: none;
     background: var(--mx-colors-gray-100);
     color: var(--mx-colors-gray-800);
+
+    // h5
+    input {
+      // 和父容器 taro-input-core 一样高
+      height: 100%;
+    }
   }
 
   &-plus,
