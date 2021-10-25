@@ -17,7 +17,7 @@
     }
   },
   "dependencies": {
-    "@tarojs/components": "^3.2.10",
+    "@tarojs/components": "^3.3.10",
     "@fower/taro": "^1.52.0",
     "prop-types": "^15.7.2"
   },
