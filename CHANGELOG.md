@@ -1,3 +1,25 @@
+## [0.1.2](https://github.com/miaoxing/mxjs-m-stepper/compare/v0.1.1...v0.1.2) (2022-01-12)
+
+
+### Bug Fixes
+
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.59.0` ([cb6684b](https://github.com/miaoxing/mxjs-m-stepper/commit/cb6684bd63cedef5f366ff5d93f654ea5ab6faf9))
+
+
+### Features
+
+* **taro:** 限制 taro 为 3.3.x，3.4 有 BREAKING CHANGES ([e76b193](https://github.com/miaoxing/mxjs-m-stepper/commit/e76b1937444022af07bbbf3dfb06573f0a2c23b2))
+* 更新 `[@fower](https://github.com/fower)` 到 `^1.61` ([80e5360](https://github.com/miaoxing/mxjs-m-stepper/commit/80e5360cd550f7e5b056a2bee1d583cf2d2edc6d))
+* 更新 taro 到 `^3.3.20` ([9620297](https://github.com/miaoxing/mxjs-m-stepper/commit/96202971155f4016eff5e6a7e8351fcd1d4cb6db))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.0.0` to `8.0.1`
+
 ## [0.1.1](https://github.com/miaoxing/mxjs-m-stepper/compare/v0.1.0...v0.1.1) (2021-10-28)
 
 
