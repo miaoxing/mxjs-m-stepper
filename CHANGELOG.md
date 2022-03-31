@@ -1,3 +1,10 @@
+## [0.1.4](https://github.com/miaoxing/mxjs-m-stepper/compare/v0.1.3...v0.1.4) (2022-03-31)
+
+
+### Features
+
+* 更新 `fower` 到 `^1.70.0` ([c038689](https://github.com/miaoxing/mxjs-m-stepper/commit/c038689a3604ae687378a79e27f316ebfd5822bd))
+
 ## [0.1.3](https://github.com/miaoxing/mxjs-m-stepper/compare/v0.1.2...v0.1.3) (2022-02-05)
 
 
