@@ -1,6 +1,6 @@
 {
   "name": "@mxjs/m-stepper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
@@ -22,7 +22,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@miaoxing/dev": "^8.1.2",
+    "@miaoxing/dev": "^8.1.3",
     "@testing-library/react": "^11.2.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
