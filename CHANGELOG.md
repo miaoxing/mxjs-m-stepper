@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/miaoxing/mxjs-m-stepper/compare/v1.0.1...v1.1.0) (2023-01-01)
+
+
+### Features
+
+* 更新 `fower` 到 `~1.75.0` ([98ec98e](https://github.com/miaoxing/mxjs-m-stepper/commit/98ec98ea8d73eb862f4f18ed6b9a9acb84296b1c))
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `8.1.3` to `8.2.0`
+
 ## [1.0.1](https://github.com/miaoxing/mxjs-m-stepper/compare/v1.0.0...v1.0.1) (2022-08-02)
 
 
