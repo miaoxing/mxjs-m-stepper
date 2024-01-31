@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/miaoxing/mxjs-m-stepper/compare/v1.1.6...v1.2.0) (2024-01-31)
+
+
+### Features
+
+* 更新 `react` 支持 18 ([e6b0315](https://github.com/miaoxing/mxjs-m-stepper/commit/e6b031543631d8043dcffb8970b70c9085b3f7f1))
+
 ## [1.1.6](https://github.com/miaoxing/mxjs-m-stepper/compare/v1.1.5...v1.1.6) (2024-01-08)
 
 
