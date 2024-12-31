@@ -1,3 +1,13 @@
+## [1.2.6](https://github.com/miaoxing/mxjs-m-stepper/compare/v1.2.5...v1.2.6) (2024-12-31)
+
+
+
+
+
+### Dependencies
+
+* **@miaoxing/dev:** upgrade from `9.3.0` to `9.3.1`
+
 ## [1.2.5](https://github.com/miaoxing/mxjs-m-stepper/compare/v1.2.4...v1.2.5) (2024-12-30)
 
 
